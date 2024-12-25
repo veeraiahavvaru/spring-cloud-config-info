@@ -1,0 +1,10 @@
+build:
+  info: V1
+account:
+  message: "welcome to eazy bank"
+  contactDetils:
+    name: "john deo - Developer - prod"
+    email: "ezybytes@mail.com"
+  onCallSupport:
+      - 1111111111
+      - 2222222222

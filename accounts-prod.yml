@@ -1,10 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
 build:
   info: V1
 account:
-  message: "welcome to eazy bank"
+  message: "welcome to eazy bank accounts - Prod"
   contactDetils:
-    name: "john deo - Developer - prod"
+    name: "john deo - Prod"
     email: "ezybytes@mail.com"
   onCallSupport:
-      - 1111111111
-      - 2222222222
+      - 2345457838
+      - 45421836473

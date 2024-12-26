@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  info: V1
+account:
+  message: "welcome to eazy bank accounts in QA Environment"
+  contactDetils:
+    name: "john deo - QA"
+    email: "ezybytes@mail.com"
+  onCallSupport:
+      - 2345331111
+      - 4542382222

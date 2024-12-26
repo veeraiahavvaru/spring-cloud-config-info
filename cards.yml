@@ -1,7 +1,7 @@
 build:
   info: V1
 account:
-  message: "welcome to eazy bank"
+  message: "welcome to eazy bank - cards team"
   contactDetils:
     name: "john deo - Developer"
     email: "ezybytes@mail.com"

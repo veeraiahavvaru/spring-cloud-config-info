@@ -5,7 +5,7 @@ spring:
 build:
   info: V1
 account:
-  message: "welcome to eazy bank accounts in QA Environment"
+  message: "welcome to eazy bank loans in QA Environment"
   contactDetils:
     name: "john deo - QA"
     email: "ezybytes@mail.com"

@@ -5,7 +5,7 @@ spring:
 build:
   info: V1
 account:
-  message: "welcome to eazy bank accounts - Prod"
+  message: "welcome to eazy bank accounts - Production"
   contactDetils:
     name: "john deo - Prod"
     email: "ezybytes@mail.com"

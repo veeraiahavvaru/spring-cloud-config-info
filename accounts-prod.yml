@@ -7,7 +7,7 @@ build:
 account:
   message: "welcome to eazy bank accounts - Production"
   contactDetils:
-    name: "john deo - Prod"
+    name: "john deo - Prod - Team"
     email: "ezybytes@mail.com"
   onCallSupport:
       - 2345457838

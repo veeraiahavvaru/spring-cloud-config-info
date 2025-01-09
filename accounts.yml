@@ -1,5 +1,5 @@
 build:
-  info: V1
+  version: V1
 account:
   message: "welcome to eazy bank accounts team"
   contactDetils:

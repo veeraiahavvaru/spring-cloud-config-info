@@ -3,7 +3,7 @@ spring:
     activate:
       on-profile: "qa"
 build:
-  info: V1
+  version: V1
 account:
   message: "welcome to eazy bank cards QA Environments"
   contactDetils:
